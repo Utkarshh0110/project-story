@@ -1,0 +1,41 @@
+.user__container{
+    display: flex;
+    height: 100vh;
+}
+
+.card__container{
+    display: flex;
+    flex: .7;
+    width: 70%; 
+    background-color: beige;
+}
+
+.form__container{
+    display: flex;
+    flex: .3;
+    justify-content: center;
+    padding: 20px;
+    background-color: beige;
+}
+
+
+.carousel__container{
+    padding: 20px;
+}
+
+
+span{
+    background-color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.button__details{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+Button{
+    margin-left: 10px;
+}

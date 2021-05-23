@@ -1,0 +1,3 @@
+export const GET_ALL_PROJECT = "GET_ALL_PROJECT";
+export const UPLOAD_PROJECT = "UPLOAD_PROJECT";
+export const SET_ALL_PROJECT = "SET_ALL_PROJECT";

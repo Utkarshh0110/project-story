@@ -1,0 +1,20 @@
+.signin__container{
+    margin-top: 50px;
+    color: black;
+    padding: 25px;
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+    color: red;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+    color: brown;
+}
+
+.button__signup{
+    margin-left: 50%;
+    margin-top: 30px;
+}
